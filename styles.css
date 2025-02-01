@@ -16,7 +16,7 @@ body {
 
 button {
     padding: 15px 30px;
-    font-size: 18px;
+    font-size: 40px;
     background-color: #4CAF50;
     color: white;
     border: none;
@@ -30,7 +30,7 @@ button:hover {
 }
 
 p {
-    font-size: 24px;
+    font-size: 54px;
     color: #333;
     margin-top: 20px;
 }

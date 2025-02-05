@@ -15,18 +15,18 @@ body {
 }
 
 button {
-    padding: 15px 30px;
-    font-size: 40px;
+    padding: 15px 50px;
+    font-size: 45px;
     background-color: #4CAF50;
-    color: white;
-    border: none;
+    color: White;
+    border: 100;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s;
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #6AB187;
 }
 
 p {
